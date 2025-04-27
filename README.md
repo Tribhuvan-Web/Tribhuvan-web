@@ -77,9 +77,6 @@ Generate AI-powered email replies through an extension or web app.
   <a href="https://www.hackerrank.com/profile/tribhuvannath567" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/u/Tribhuvan_nath/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" alt="LeetCode" />
-  </a>
 </div>
 
 ---

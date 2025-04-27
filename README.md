@@ -1,64 +1,92 @@
-<h3 align="left">Hi 👋! My name is Tribhuvan Nath and I'm a student, from Patliputra University.</h3>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/115761012?s=400&u=6b21ba2b72dbdce342e0696908014b221d820d32&v=4"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
+# Hi there, I'm Tribhuvan Nath 👋
 
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/115761012?s=400&u=6b21ba2b72dbdce342e0696908014b221d820d32&v=4"  />
+  <img src="https://avatars.githubusercontent.com/u/115761012?s=400&u=6b21ba2b72dbdce342e0696908014b221d820d32&v=4" width="150" alt="Tribhuvan Avatar" />
 </div>
 
-###
+---
 
-<p align="left">I'm Tribhuvan Nath from Patliputra University, pursuing a Bachelor's in Computer Applications (BCA). I have intermediate expertise in Java, Spring Boot, SQL, and React.</p>
+## 🌟 About Me
 
-<p align="left">- 🔭 I’m working on enhancing my skills through academic projects. This year, I completed one major project and one minor project, which strengthened my practical knowledge. Additionally, I have solved numerous DSA (Data Structures and Algorithms) questions, further improving my problem-solving abilities.</p>
+I'm a passionate student at **Patliputra University**, pursuing a Bachelor's degree in Computer Applications (BCA).  
+With expertise in **Java**, **Spring Boot**, **SQL**, and **React**, I thrive on solving problems and building
+innovative solutions.
 
-<p align="left">- 📚 I'm currently learning advanced concepts in Spring Boot and React to deepen my expertise in these frameworks and technologies.</p>
+✨ **Current Focus:**
 
-<p align="left">- ⚡ In my free time, I enjoy exploring new programming challenges, reading tech blogs, and experimenting with innovative ideas in software development.</p>
+- Tackling **DSA challenges** on LeetCode and other platforms to sharpen my problem-solving skills.
+- Diving deep into **advanced concepts** in Spring Boot and React.
 
-###
+✨ **Outside Coding:**  
+When I'm not immersed in programming, I enjoy exploring tech blogs, experimenting with software ideas, and challenging
+myself with new projects.
+
+---
+
+## 🔧 My Skills & Proficiency
+
+Here are my self-assessed proficiency levels:
+<div align="center">
+
+| Skill           | Level        |
+|-----------------|--------------|
+| **Java**        | Intermediate |
+| **Spring Boot** | Basic        |
+| **React**       | Basic        |
+| **SQL**         | Intermediate |
+
+</div>
+
+---
+
+## 🚀 Projects Showcase
+
+### **URL-Shortener - Shortly**
+
+Transform long URLs into compact links with analytics and secure data handling.  
+**Tech Stack:** Java | Spring Boot | React | SQL  
+🔗 [Live Link](https://shortly-col.netlify.app/home)  
+🎥 [Live Demo](https://www.linkedin.com/posts/tribhuvan-nath-sagar_springboot-reactaxios-techjourney-activity-7318553540031827969-kqAT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBnZaIBxJX4hjbaMRN-GMEkSo_eMNL3b_E)
+
+---
+
+### **Mail Genius - AI Email Reply**
+
+Generate AI-powered email replies through an extension or web app.  
+**Tech Stack:** Java | Spring | Gemini | React  
+🔗 [Live Link](https://mail-genius-puce.vercel.app/)  
+🎥 [Live Demo](https://www.linkedin.com/posts/tribhuvan-nath-sagar_ai-springboot-java-activity-7311604471854166016-1H8h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBnZaIBxJX4hjbaMRN-GMEkSo_eMNL3b_E)
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tribhuvan-nath-sagar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/reyansh_singh_rajput__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="mailto:tribhuvannath4567@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/9162021086" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="Whatsapp" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/tribhuvannath567" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/Tribhuvan_nath/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" alt="LeetCode" />
+  </a>
+</div>
+
+---
+
+## 📈 Additional Knowledge & Experience
+
+- **Programming:** Proficient in object-oriented programming with Java and modern frameworks.
+- **Frameworks & Libraries:** Actively advancing skills in Spring Boot and React.
+- **Database Management:** Experience with SQL databases, ensuring data integrity and efficient query performance.
+- **Problem Solving:** A LeetCode enthusiast improving algorithmic thinking and debugging expertise daily.  

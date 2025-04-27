@@ -1,9 +1,4 @@
 # Hi there, I'm Tribhuvan Nath 👋
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/115761012?s=400&u=6b21ba2b72dbdce342e0696908014b221d820d32&v=4" width="150" alt="Tribhuvan Avatar" />
-</div>
-
 ---
 
 ## 🌟 About Me

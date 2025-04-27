@@ -1,16 +1,20 @@
-## Hi there 👋
+# ProjectName 🚀
 
-<!--
-**Tribhuvan-Web/Tribhuvan-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A short, compelling one-liner about your project.
 
-Here are some ideas to get you started:
+![Demo GIF](https://example.com/demo.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- 🎨 Feature 1
+- ⚡ Feature 2
+- 🔒 Feature 3
+
+## Installation
+1. Clone the repo: `git clone https://github.com/username/repo.git`
+2. Navigate to the folder: `cd repo`
+3. Run: `install command`
+
+## Usage
+```sh
+# Example usage
+command to run

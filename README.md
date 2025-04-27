@@ -1,6 +1,4 @@
 # Hi there, I'm Tribhuvan Nath 👋
----
-
 ## 🌟 About Me
 
 I'm a passionate student at **Patliputra University**, pursuing a Bachelor's degree in Computer Applications (BCA).  

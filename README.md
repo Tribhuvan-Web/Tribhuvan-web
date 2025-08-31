@@ -18,7 +18,7 @@ myself with new projects.
 ## 🚀 Projects Showcase
 
 ### **MovieBookingApplication - Cinebook**
-# 🎬 CineBook — Full-Stack Movie Booking Application
+# 🎬 CineBook — Full-Stack Movie Booking Application [link](https://cinebook.app)
 
 A production-grade movie booking platform built with a scalable mindset. Currently monolithic, actively being refactored into microservices for modularity and performance. Includes user, admin, and super-admin panels with robust authentication and race condition handling.
 
